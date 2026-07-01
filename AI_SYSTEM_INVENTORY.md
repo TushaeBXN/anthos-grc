@@ -20,6 +20,8 @@ This is the master inventory of all AI systems developed or operated under the A
 
 ## Risk Register Summary
 
+> Scores use Likelihood (1–5) × Impact (1–5). See [RISK_SCORING_GUIDE.md](RISK_SCORING_GUIDE.md) for a plain-English breakdown of what each number means and how to interpret the risk levels.
+
 | System | Top Risk | Score | Level | Primary Control |
 |---|---|---|---|---|
 | Kerrigan-Fantasma | Capability uplift / dual-use misuse | 3×5 = 15 | High | Network isolation + human-approval gate |

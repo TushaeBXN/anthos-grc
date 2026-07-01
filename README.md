@@ -14,6 +14,7 @@ This repository is the central governance record for all AI systems developed un
 |---|---|
 | [AI_GOVERNANCE_POLICY.md](AI_GOVERNANCE_POLICY.md) | Organization-level AI governance policy — principles, tiers, accountability, review cadence |
 | [AI_SYSTEM_INVENTORY.md](AI_SYSTEM_INVENTORY.md) | Master inventory and risk register of all Anthos AI systems |
+| [RISK_SCORING_GUIDE.md](RISK_SCORING_GUIDE.md) | Plain-English explanation of the Likelihood × Impact scoring method with worked examples |
 | [governance-cards/kerrigan-fantasma.md](governance-cards/kerrigan-fantasma.md) | System card — Kerrigan-Fantasma (exploit-analysis agent, Tier 3/4) |
 | [governance-cards/cyberguard.md](governance-cards/cyberguard.md) | System card — CyberGuard AI (endpoint security monitor, Tier 3) |
 
